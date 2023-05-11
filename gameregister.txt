@@ -1,0 +1,3 @@
+{'username': 'Hashir', 'password': '12345', 'phone': '12122'}
+{'username': 'Muji', 'password': '123', 'phone': '0909'}
+{'username': 'Sohaib', 'password': '9999', 'phone': '0999'}
